@@ -2,6 +2,7 @@
 int main(){
     printf("My first c program");
 <<<<<<< HEAD
+<<<<<<< HEAD
     printf("This is new commit");
 }
 =======
@@ -11,3 +12,9 @@ int main(){
 >>>>>>> ad4205dc8dd266c1dd8c7eb00d2a9e1c4f6b2543
 /* New work */
 printf("New features");
+=======
+    printf("did the changes");
+    printf("changed the code");
+}
+>>>>>>> ad4205dc8dd266c1dd8c7eb00d2a9e1c4f6b2543
+printf("this is a new features");
